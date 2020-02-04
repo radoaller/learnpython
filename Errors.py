@@ -9,11 +9,4 @@ try:
 except ValueError:
     print ('You did not enter a number. ')
 
-#def division_by_4(a):
-#    try:
-#        return 4/(a)
-#    except:
-#        None
-
-#print (division_by_4(12))
-#print (division_by_4(0))
+#comment goes here
