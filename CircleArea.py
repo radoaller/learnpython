@@ -5,7 +5,7 @@ def find_area_circle (radius):
 
 user_radius = int(input("Please enter the radius: "))
 circle_area = find_area_circle(user_radius)
-print (f"The area of a circle with a radius of {user_radius} is, {circle_area} ")
+print ("The area of a circle with a radius of {} is, {} ". format (user_radius, circle_area))
 
 
 
